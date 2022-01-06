@@ -1,0 +1,14 @@
+h1{
+  color: rgb(91, 150, 150);
+}
+input[type="submit"]{
+  background-color: rgb(255, 247, 188);
+  color: #354c52;
+  padding: 3px 10px 3px 10px;
+  border-radius: 4px;
+}
+button{
+  background-color: rgb(35, 85, 87);
+  color: #fff;
+  border-radius: 4px;
+}
